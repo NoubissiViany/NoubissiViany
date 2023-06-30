@@ -37,6 +37,10 @@ Here are some ideas to get you started:
           <img height="60x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
         </td>
          <td width="140" height="60" align="center">
+          <span>TypeScript</span><br><br><br>
+          <img src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" title="TypeScript" **alt="TypeScript" width="60" height="60"/>
+        </td>
+         <td width="140" height="60" align="center">
           <span>Git</span><br><br><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
         </td>
