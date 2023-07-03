@@ -33,15 +33,15 @@ Here are some ideas to get you started:
     <tbody>
       <tr valign="top">
         <td width="140" height="60" align="center">
-          <span>Javascript</span><br><br><br>
+          <span><strong>Javascript</strong></span><br><br><br>
           <img height="60x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
         </td>
          <td width="140" height="60" align="center">
-          <span>TypeScript</span><br><br><br>
+          <span><strong>TypeScript</strong></span><br><br><br>
           <img src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" title="TypeScript" **alt="TypeScript" width="60" height="60"/>
         </td>
          <td width="140" height="60" align="center">
-          <span>Git</span><br><br><br>
+          <span><strong>Git</strong></span><br><br><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
         </td>
       </tr>
@@ -54,17 +54,22 @@ Here are some ideas to get you started:
     <tbody>
       <tr valign="top">
         <td width="140px" align="center">
-          <span>React</span><br><br><br>
+          <span><strong>React</strong></span><br><br><br>
           <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
         </td>
         <td width="140px" align="center">
-          <span>HTML5</span><br><br><br>
+          <span><strong>HTML5</strong></span><br><br><br>
           <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
         </td>
         <td width="140px" align="center">
           <span><strong>CSS3</strong>
           </span><br><br><br>
           <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        </td>
+        <td width="140px" align="center">
+          <span><strong>Boostrap</strong>
+          </span><br><br><br>
+          <img height="64px" src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon.png">
         </td>
       </tr>
     </tbody>
@@ -76,12 +81,20 @@ Here are some ideas to get you started:
     <tbody>
       <tr valign="top">
         <td width="140px" align="center">
-          <span>Node js</span><br><br><br>
+          <span><strong>Node js</strong></span><br><br><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="100" height="100"/>
         </td>
         <td width="140px" align="center">
-          <span>MySQL</span><br><br><br>
+          <span><strong>MySQL</strong></span><br><br><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="100" height="100"/>
+        </td>
+        <td width="140px" align="center">
+          <span><strong>Express js</strong></span><br><br><br>
+          <img src="https://blog.amt.in/wp-content/uploads/2017/12/e16da876-c2fd-4eb8-ae72-4b193c534938-Edited.png" title="ExpressJS"  alt="ExpressJS" width="120" height="100"/>
+        </td>
+        <td width="140px" align="center">
+          <span><strong>Sequelize</strong></span><br><br><br>
+          <img src="https://user-images.githubusercontent.com/77861206/107676832-57368c00-6c78-11eb-9288-cd933e208229.png" title="Sequelize"  alt="Sequelize" width="120" height="100"/>
         </td>
       </tr>
     </tbody>
@@ -95,11 +108,11 @@ Here are some ideas to get you started:
       <tbody>
         <tr valign="top">
           <td width="140px" align="center">
-            <span>React Native</span><br><br><br>
+            <span><strong>React Native</strong></span><br><br><br>
             <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
           </td>
           <td width="140px" align="center">
-            <span>NextJS</span><br><br><br>
+            <span><strong>NextJS</strong></span><br><br><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
           </td>
            <td width="140px" align="center">
@@ -126,6 +139,10 @@ Here are some ideas to get you started:
           <td width="140px" align="center">
             <span><strong>Markdown<strong></span><br><br><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/markdown.svg">
+          </td>
+          <td width="140px" align="center">
+            <span><strong>Redux<strong></span><br><br><br>
+            <img height="64px" src="https://bendyworks.com/assets/images/blog/2020-05-04-ionic-react-and-redux-74ed1080.png">
           </td>
         </tr>
       </tbody>
