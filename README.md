@@ -44,6 +44,10 @@ Here are some ideas to get you started:
           <span><strong>Git</strong></span><br><br><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
         </td>
+        <td width="140" height="60" align="center">
+          <span><strong>Firebase</strong></span><br><br><br>
+          <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" title="Firebase" **alt="Firebase" width="60" height="60"/>
+        </td>
       </tr>
     </tbody>
   </table>
